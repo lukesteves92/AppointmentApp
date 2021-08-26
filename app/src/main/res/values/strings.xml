@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AppointmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registerVP">Cadastrar</string>
+    <string name="loginVP">Login</string>
+    <string name="helper_required">*Obrigatório</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="registerButton">Cadastrar</string>
+    <string name="namefieldRegister">Nome</string>
+    <string name="cpfRegister">CPF</string>
+    <string name="phoneRegister">Celular</string>
 </resources>
