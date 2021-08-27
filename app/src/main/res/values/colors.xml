@@ -12,5 +12,12 @@
     <color name="textTabInitial">#008DF1</color>
     <color name="boxcolorLogin">#008DF1</color>
     <color name="buttonColorLogin">#008DF1</color>
+    <color name="navColorText">#FF000000</color>
+    <color name="navColorIcon">#008DF1</color>
+    <color name="navColorButton">#008DF1</color>
+    <color name="checkboxAccount">#008DF1</color>
+
+
+
 </resources>
 

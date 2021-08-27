@@ -12,4 +12,11 @@
     <string name="namefieldRegister">Nome</string>
     <string name="cpfRegister">CPF</string>
     <string name="phoneRegister">Celular</string>
+    <string name="home_destination_label">Home</string>
+    <string name="schedule_destination_label">Agenda</string>
+    <string name="config_destination_label">Config</string>
+    <string name="buttonNavigationRailText">Agendar</string>
+    <string name="account">Conta</string>
+    <string name="account_description">Alterar senha</string>
+    <string name="icone_seta_direita">Ícone, seta para direita</string>
 </resources>
